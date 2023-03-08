@@ -6,6 +6,8 @@
 
 💻 ▪️ I'm learning to program on my own.
 
+##
+
 #### I am currently studying the following languages.
 
 <div display="inline">
