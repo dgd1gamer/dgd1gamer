@@ -2,15 +2,14 @@
 
 <ul>
 <li><p align="left">📒 ▪️ I'm Brazilian and a high school student at a federal institution.</p></li>
-<li><p align="left">🤙 ▪️ I'm 17 years old</p></li>
+<li><p align="left">🤙 ▪️ I'm 18 years old</p></li>
 <li><p align="left">💻 ▪️ I'm learning to program on my own.</p></li>
 </ul>
 
 ##
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dgd1gamer&show_icons=true&theme=dracula&hide_border=true" alt="Dgd1gamer's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgd1gamer&layout=compact&hide_border=true&theme=dracula" alt="Dgd1gamer's github stats most used linguages" />
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgd1gamer&layout=compact&hide_border=false&theme=blueberry" alt="Dgd1gamer's github stats most used linguages" />
 </div>
 
 <h2 align="center">I am currently studying the following languages.</h2>
@@ -24,3 +23,6 @@
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
+
+
+![](https://komarev.com/ghpvc/?username=dgd1gamer&color=red&style=flat&abbreviated=true)
